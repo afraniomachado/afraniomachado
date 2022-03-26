@@ -1,7 +1,7 @@
 ### Oii, eu sou o Afranio 
 
 - Atualmente procurando um estágio 
-- Estudando no momento HTML5,CSS3, JS 
+- Estudando no momento HTML5,CSS3, JS, C#
 - Pronomes: Ele/Dele
 
 
