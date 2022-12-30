@@ -1,7 +1,7 @@
 ### Oii, eu sou o Afranio 
 
 - Atualmente procurando um estágio 
-- Estudando no momento JAVA
+- Estudando no momento Java e Kotlin
 - Pronomes: Ele/Dele
 
 
