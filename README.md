@@ -1,7 +1,7 @@
-### Oii, eu sou o Afranio 
+### Oi, eu sou o Afranio Machado
 
 - Atualmente procurando um estágio 
-- Estudando no momento Java e Kotlin
+- Estudando no momento C# .Net
 - Pronomes: Ele/Dele
 
 
